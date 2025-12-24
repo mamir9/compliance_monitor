@@ -1,0 +1,19 @@
+# Compliance Monitoring System - Self-Contained Version
+# Install: pip install -r requirements.txt
+
+# Web Framework
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+
+# Web Scraping
+Scrapy==2.11.0
+
+# Background Scheduling
+APScheduler==3.10.4
+
+# Scrapy + Flask Integration
+crochet==2.1.1
+twisted==23.10.0
+
+# Optional but recommended
+python-dateutil==2.8.2

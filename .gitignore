@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist/
+.build/
+.venv/
+venv/
+env/
+flask_env/
+pip-wheel-metadata/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local secrets / env files
+.env
+.env.*
+*.pem
+*.key
+
+# SQLite / local DB
+*.db
+*.sqlite
+*.sqlite3
+
+# Downloads / scraped files
+downloads/
+*.pdf
+
+# Scrapy
+.scrapy/
+
+# Cache
+.cache/
